@@ -1,0 +1,7 @@
+db:
+  mysql:
+    host: 'localhost'
+    port: 13306
+    database: 'wanted_assignment'
+    username: 'root'
+    password: 'root'
